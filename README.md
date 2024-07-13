@@ -1,4 +1,4 @@
-# User Highlighting App
+# Users fetch and filter App
 
 This project is a React application built using TypeScript, which fetches users from an API and highlights search terms in the user data. The project is set up using [Create React App](https://github.com/facebook/create-react-app).
 
