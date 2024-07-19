@@ -8,6 +8,8 @@
     animation-name: example;
     animation-duration: 4s;
 
+
+
     h4, p {
         color: var(--text-color-light);
     }
@@ -16,4 +18,8 @@
         color: var(--background);
         background-color: var(--white);
     }
+}
+
+.active {
+    outline: 2px solid red;
 }
